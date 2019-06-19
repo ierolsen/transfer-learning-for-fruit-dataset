@@ -2,4 +2,4 @@
 
 I used VGG16 model for furit classification and accuracy: 96% 
 
-In my first work I just created Convolutional Neural Network and I got 97% accuracy.
+Here is my first work with just Convolutional Neural Network: https://github.com/ierolsen/fruits-360-with-CNN
